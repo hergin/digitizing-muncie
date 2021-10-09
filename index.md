@@ -25,4 +25,4 @@ Some part of the course will be taught by the experts in their area:
 
 ## Registration
 
-Find the course on bannerweb either CS 490 or MGT 299X. It requires instructor permission. Just reach us if you are interested.
+Find the course on banner as either CS 490 or MGT 299X. It requires instructor permission. Just reach us if you are interested.
