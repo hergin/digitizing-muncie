@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Digitizing Muncie
 description: One Tech-Startup at a Time
 logo: logo.png
+show_downloads: false
