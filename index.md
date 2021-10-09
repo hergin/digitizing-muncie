@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Digitizing Muncie - Spring'22
+
+Digitizing Muncie is a new immersive learning course that is currently being offered in Spring'22.
 
 You can use the [editor on GitHub](https://github.com/hergin/digitizing-muncie/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
