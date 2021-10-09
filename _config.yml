@@ -3,3 +3,5 @@ title: Digitizing Muncie
 description: One Tech-Startup at a Time
 logo: logo.png
 show_downloads: false
+github:
+  is_project_page: false
