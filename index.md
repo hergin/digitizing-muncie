@@ -14,8 +14,8 @@ In this course, students will learn to:
 ## Instructors
 
 The course is co-taught by:
-- [Huseyin Ergin PhD](http://www.cs.bsu.edu/~hergin)
-- [Krystal Geyer](https://www.bsu.edu/academics/centersandinstitutes/entrepreneurship/about-us/faculty-and-staff/geyerkrystal)
+- [Huseyin Ergin PhD](http://www.cs.bsu.edu/~hergin): hergin@bsu.edu
+- [Krystal Geyer](https://www.bsu.edu/academics/centersandinstitutes/entrepreneurship/about-us/faculty-and-staff/geyerkrystal): kmgeyer@bsu.edu
 
 ## Consultants
 
