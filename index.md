@@ -6,7 +6,7 @@ In this course, students will learn to:
 - Generate ideas based on observations of everyday problems,
 - Validate the idea on a group of users,
 - Produce a feasible custom software in the fastest way possible,
-- Convert an software into a tech-business,
+- Convert a software into a tech-business,
 - Found a company from scratch and run it along the way,
 - Acquire the first 50-100 users,
 - Identify investment opportunities for a newly founded company
