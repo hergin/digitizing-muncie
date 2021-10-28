@@ -23,6 +23,10 @@ Some part of the course will be taught by the experts in their area:
 - [Landon Young](https://elevateventures.com/landon-young/): Identifying investment opportunities, networking.
 - [Ted Baker](https://innovationconnector.com/about-the-ic/#av_section_1): Forming and running a business.
 
+## Time
+
+Monday and Wednesday at 5pm to 6:15pm.
+
 ## Registration
 
 Find the course on banner as either CS 490 or MGT 299X. It requires instructor permission. Just reach us if you are interested.
