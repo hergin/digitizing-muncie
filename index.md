@@ -1,6 +1,6 @@
 ## Digitizing Muncie - Spring'22
 
-Digitizing Muncie is a new immersive learning course that is currently being offered in Spring'22.
+Have you ever wanted to learn about how to form your own software startup company? What are those terminology around like series a, series b etc? How can you find someone to invest in your idea? What is freemium, subscription-based, usage-based models to price your software? Then this class is for you: Digitizing Muncie is a new immersive learning course that is currently being offered in Spring'22.
 
 In this course, students will learn to:
 - Generate ideas based on observations of everyday problems,
