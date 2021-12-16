@@ -22,6 +22,8 @@ The course is co-taught by:
 Some part of the course will be taught by the experts in their area:
 - [Landon Young](https://elevateventures.com/landon-young/): Identifying investment opportunities, networking.
 - [Ted Baker](https://innovationconnector.com/about-the-ic/#av_section_1): Forming and running a business.
+- [Karen Lloyd](https://isbdc.org/author/klloyd/): Information about different company structures, registering for LLCs.
+- [David Galitsky](https://www.linkedin.com/in/david-galitsky-09795048): Things you need to know about software in startups.
 
 ## Time
 
