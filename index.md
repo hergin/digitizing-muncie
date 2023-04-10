@@ -30,4 +30,4 @@ Tuesday and Thursday at 2pm to 3:15pm.
 
 ## Registration
 
-Find the course on banner as either CS 490 or MGT 299X. It requires instructor permission. Just reach us if you are interested.
+Find the course on banner as either CS 490 or MGT 299X.
