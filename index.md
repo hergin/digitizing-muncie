@@ -1,15 +1,17 @@
 ## Digitizing Muncie - Fall'23
 
-Have you ever wanted to learn about how to form your own software startup company? What are those terminology around like series a, series b etc? How can you find someone to invest in your idea? What is freemium, subscription-based, usage-based models to price your software? Then this class is for you: Digitizing Muncie is a new immersive learning course that is currently being offered in Fall'23.
+Are you interested in learning how to start your own software company? Do you want to understand the jargon used in the startup world, such as series A and B funding? Would you like to know how to find investors for your startup and how to choose the right pricing model for your software? Then this course is perfect for you.
 
-In this course, students will learn to:
-- Generate ideas based on observations of everyday problems,
-- Validate the idea on a group of users,
-- Produce a feasible custom software in the fastest way possible using No-Code tools,
-- Convert a software into a tech-business,
-- Found a company from scratch and run it along the way,
-- Acquire the first 50-100 users,
-- Identify investment opportunities for a newly founded company
+Digitizing Muncie is an immersive learning course offered in Fall’23. In this class, students will learn how to:
+- Identify everyday problems and generate ideas for software solutions
+- Validate those ideas with real users
+- Use No-Code tools to develop a feasible custom software quickly
+- Convert software into a tech-based business
+- Found and run a company from scratch
+- Acquire the first 50-100 users
+- Identify opportunities for investment in a newly founded company
+
+This course will equip you with the knowledge and skills needed to start your own software startup. You will learn from experienced instructors who have started and run successful software businesses. Join us to start your journey towards becoming a successful tech entrepreneur.
 
 ## Instructors
 
