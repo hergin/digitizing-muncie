@@ -15,7 +15,7 @@ This course will equip you with the knowledge and skills needed to start your ow
 
 ## Instructors
 
-The course is by:
+The course is taught by:
 - [Huseyin Ergin PhD](http://www.cs.bsu.edu/~hergin): hergin@bsu.edu
 
 ## Consultants
